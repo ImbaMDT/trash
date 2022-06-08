@@ -1,0 +1,51 @@
+1. Reihe
+
+{'Name': 'U2001316_TFT6_Syndra_1', 'CoordX': 23623.9990234375, 'CoordY': 24879.9990234375}
+{'Name': 'U2000983_TFT6_Kassadin', 'CoordX': 24056.0, 'CoordY': 24880.0}
+{'Name': 'U2001397_TFT6_Malzahar', 'CoordX': 24484.0009765625, 'CoordY': 24880.0009765625}
+{'Name': 'U2001229_TFT6_Zyra_17', 'CoordX': 24912.0, 'CoordY': 24880.0}
+{'Name': 'U2001305_TFT6_RekSai_1', 'CoordX': 25340.0009765625, 'CoordY': 24880.0009765625}
+{'Name': 'U2001755_TFT6_Renata_1', 'CoordX': 25772.0, 'CoordY': 24880.0}
+{'Name': 'U2001514_TFT6_ChoGath_', 'CoordX': 26200.0, 'CoordY': 24880.0}
+
+2. Reihe
+
+{'Name': 'U2001316_TFT6_Syndra_7', 'CoordX': 23839.9990234375, 'CoordY': 24507.9990234375}
+{'Name': 'U2000983_TFT6_Kassadin', 'CoordX': 24268.0, 'CoordY': 24508.0}
+{'Name': 'U2001397_TFT6_Malzahar', 'CoordX': 24700.0009765625, 'CoordY': 24508.0009765625}
+{'Name': 'U2001229_TFT6_Zyra_12', 'CoordX': 25128.0, 'CoordY': 24508.0}
+{'Name': 'U2001305_TFT6_RekSai_1', 'CoordX': 25556.0009765625, 'CoordY': 24508.0009765625}
+{'Name': 'U2001755_TFT6_Renata_1', 'CoordX': 25984.0, 'CoordY': 24508.0}
+{'Name': 'U2001514_TFT6_ChoGath_', 'CoordX': 26416.0009765625, 'CoordY': 24508.0009765625}
+
+3. Reihe
+
+{'Name': 'U2001316_TFT6_Syndra_3', 'CoordX': 23623.9990234375, 'CoordY': 24135.9990234375}
+{'Name': 'U2000983_TFT6_Kassadin', 'CoordX': 24056.0, 'CoordY': 24136.0}
+{'Name': 'U2001397_TFT6_Malzahar', 'CoordX': 24484.0009765625, 'CoordY': 24136.0009765625}
+{'Name': 'U2001229_TFT6_Zyra_8', 'CoordX': 24912.0, 'CoordY': 24136.0}
+{'Name': 'U2001305_TFT6_RekSai_7', 'CoordX': 25340.0009765625, 'CoordY': 24136.0009765625}
+{'Name': 'U2001755_TFT6_Renata_8', 'CoordX': 25772.0, 'CoordY': 24136.0}
+{'Name': 'U2001514_TFT6_ChoGath_', 'CoordX': 26200.0009765625, 'CoordY': 24136.0009765625}
+
+4. Reihe
+
+{'Name': 'U2001316_TFT6_Syndra_1', 'CoordX': 23839.9990234375, 'CoordY': 23763.9990234375}
+{'Name': 'U2000983_TFT6_Kassadin', 'CoordX': 24268.0, 'CoordY': 23764.0}
+{'Name': 'U2001397_TFT6_Malzahar', 'CoordX': 24700.0009765625, 'CoordY': 23764.0009765625}
+{'Name': 'U2001229_TFT6_Zyra_6', 'CoordX': 25128.0, 'CoordY': 23764.0}
+{'Name': 'U2001305_TFT6_RekSai_5', 'CoordX': 25556.0009765625, 'CoordY': 23764.0009765625}
+{'Name': 'U2001755_TFT6_Renata_6', 'CoordX': 25984.0, 'CoordY': 23764.0}
+{'Name': 'U2001514_TFT6_ChoGath_', 'CoordX': 26416.0, 'CoordY': 23764.0}
+
+Bench
+
+{'Name': 'U2001251_TFT6_Blitzcra', 'CoordX': 23404.0009765625, 'CoordY': 23280.0009765625}
+{'Name': 'U2001593_TFT6_Morgana_', 'CoordX': 23780.0, 'CoordY': 23280.0}
+{'Name': 'U2001005_TFT6_Ziggs_2', 'CoordX': 24152.0009765625, 'CoordY': 23280.0009765625}
+{'Name': 'U2001105_TFT6_Talon_1', 'CoordX': 24528.0009765625, 'CoordY': 23280.0009765625}
+{'Name': 'U2000856_TFT6_Brand_1', 'CoordX': 24900.0009765625, 'CoordY': 23280.0009765625}
+{'Name': 'U2001503_TFT6_Vex_1', 'CoordX': 25276.0, 'CoordY': 23280.0}
+{'Name': 'U2001212_TFT6_Zilean_1', 'CoordX': 25648.0, 'CoordY': 23280.0}
+{'Name': 'U2001725_TFT6b_Vi_1', 'CoordX': 26023.9990234375, 'CoordY': 23279.9990234375}
+{'Name': 'U2001358_TFT6_Corki_2', 'CoordX': 26396.0009765625, 'CoordY': 23280.0009765625}
